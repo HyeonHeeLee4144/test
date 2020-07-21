@@ -12,7 +12,7 @@ public class IfEx1 {
 		//학점을 부여하기 위한 변수 공백으로 초기화
 		char hakjum = ' ';
 		if(jumsu > 90) {
-			hakjum = 'A';
+			hakjum = 'B';
 		
 		}else if(jumsu >= 80) {
 			
